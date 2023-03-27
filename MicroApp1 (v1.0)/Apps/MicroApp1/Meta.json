@@ -1,0 +1,11 @@
+{
+  "subType" : "customapp",
+  "description" : "This app is created from Studio App MicroApp1.\r\n",
+  "version" : "1.0",
+  "intSvcs" : [ {
+    "name" : "Contacts",
+    "version" : "1.0",
+    "etag" : "36ba839f-f0ab-4201-8903-dcdc407bea98"
+  } ],
+  "identitySvcConf" : "{\"session_idle_timeout_mins\":20,\"session_max_duration_mins\":360,\"show_security_attributes\":false,\"is_integrity_enabled\":false,\"auto_extend\":true}"
+}

@@ -1,0 +1,12 @@
+{"childApps": [
+    {
+        "name": "MicroApp1",
+        "etag": "116f1fea-1ea2-4f4c-9586-8e966386b27c",
+        "version": "1.0"
+    },
+    {
+        "name": "MicroApp2",
+        "etag": "e86d133e-69da-4f52-885e-4f98084989c3",
+        "version": "1.0"
+    }
+]}
